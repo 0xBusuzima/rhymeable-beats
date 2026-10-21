@@ -110,3 +110,5 @@ Every track is cleared for commercial use. Credits and licences:
 | beat_ar31.mp3 | Subway Line | Adi Rambo | [CC BY 3.0](https://archive.org/details/jamendo-367178) |
 
 CC BY tracks are used under their licence with the attribution above. Please check each licence link before reusing a track.
+
+The `assets/` folder holds the site preview image, served from here for link previews in Russia (VK), where the main CDN is cut.
