@@ -108,7 +108,39 @@ Every track is cleared for commercial use. Credits and licences:
 | beat_ar29.mp3 | Overdrive | Adi Rambo | [CC BY 3.0](https://archive.org/details/jamendo-383701) |
 | beat_ar30.mp3 | Onyx | Adi Rambo | [CC BY 3.0](https://archive.org/details/jamendo-351728) |
 | beat_ar31.mp3 | Subway Line | Adi Rambo | [CC BY 3.0](https://archive.org/details/jamendo-367178) |
+| beat_cc01.mp3 | Himmat | palaguna | [CC BY 3.0](https://archive.org/details/jamendo-299571) |
+| beat_cc02.mp3 | Battle Of Love | Ashkan RaPersia | [CC BY-SA 3.0](https://archive.org/details/jamendo-238684) |
+| beat_cc03.mp3 | Remain Me | Naswhy | [CC BY-SA 3.0](https://archive.org/details/jamendo-249269) |
+| beat_cc04.mp3 | Lemon Beat | PELIKAN | [CC BY 3.0](https://archive.org/details/jamendo-255529) |
+| beat_cc05.mp3 | Reflection | Crise2nerf | [CC BY-SA 3.0](https://archive.org/details/jamendo-154078) |
+| beat_cc06.mp3 | Blue Hour | palaguna | [CC BY 3.0](https://archive.org/details/jamendo-219821) |
+| beat_cc07.mp3 | Walk Away | SURFFAZE Production | [CC BY 3.0](https://archive.org/details/jamendo-214691) |
+| beat_cc08.mp3 | Dirty Drums | Moonwalk | [CC BY 3.0](https://archive.org/details/jamendo-525527) |
+| beat_cc09.mp3 | Sport Energy | Nerevarin | [CC BY 3.0](https://archive.org/details/jamendo-382317) |
+| beat_cc10.mp3 | Afterglow | palaguna | [CC BY 3.0](https://archive.org/details/jamendo-257799) |
+| beat_cc11.mp3 | Urban Pulse | Sevennotes | [CC BY 3.0](https://archive.org/details/jamendo-476534) |
+| beat_cc12.mp3 | April Night | kontrolar | [CC BY-SA 3.0](https://archive.org/details/jamendo-625311) |
+| beat_cc13.mp3 | Over The Top | Simon Sillz | [CC BY 3.0](https://archive.org/details/jamendo-305499) |
+| beat_cc14.mp3 | Retro Adventure | yenss | [CC BY 3.0](https://archive.org/details/jamendo-485268) |
+| beat_cc15.mp3 | Bang Bang | Crise2nerf | [CC BY-SA 3.0](https://archive.org/details/jamendo-154078) |
+| beat_cc16.mp3 | Micro Climas | José Rafael | [CC BY 3.0](https://archive.org/details/jamendo-272106) |
+| beat_cc17.mp3 | The Beyond | Crise2nerf | [CC BY-SA 3.0](https://archive.org/details/jamendo-154078) |
+| beat_cc18.mp3 | Sunset | One Milk | [CC BY-SA 3.0](https://archive.org/details/jamendo-178147) |
+| beat_cc19.mp3 | Dubduru | Vzen instrumental beat | [CC BY-SA 3.0](https://archive.org/details/jamendo-129271) |
+| beat_cc20.mp3 | Slow Burn | Artem Dryablov | [CC BY 3.0](https://archive.org/details/jamendo-174990) |
+| beat_cc21.mp3 | Catacumbo | Feeblom | [CC BY-SA 3.0](https://archive.org/details/jamendo-342460) |
+| beat_cc22.mp3 | Hardcore | Vzen instrumental beat | [CC BY-SA 3.0](https://archive.org/details/jamendo-129271) |
+| beat_cc23.mp3 | A Better Tomorrow | DoctorFrost | [CC BY-SA 3.0](https://archive.org/details/jamendo-114306) |
+| beat_cc24.mp3 | 48th | podnebo prod. | [CC BY 3.0](https://archive.org/details/jamendo-397884) |
+| beat_cc25.mp3 | Bite | podnebo prod. | [CC BY 3.0](https://archive.org/details/jamendo-397509) |
+| beat_cc26.mp3 | Joker | podnebo prod. | [CC BY 3.0](https://archive.org/details/jamendo-399207) |
+| beat_cc27.mp3 | Sunday Cruise | Adi Rambo | [CC BY 3.0](https://archive.org/details/jamendo-382348) |
+| beat_cc28.mp3 | Soft Rain | Adi Rambo | [CC BY 3.0](https://archive.org/details/jamendo-369402) |
+| beat_cc29.mp3 | 808 Bass | manik seth | [CC BY 3.0](https://archive.org/details/jamendo-302591) |
+| beat_cc30.mp3 | What's On Your Mind | Nada Funk | [CC BY-SA 3.0](https://archive.org/details/jamendo-264280) |
+| beat_cc31.mp3 | Notebook Days | Adi Rambo | [CC BY 3.0](https://archive.org/details/jamendo-375506) |
+| beat_cc32.mp3 | Soul Session | Sevennotes | [CC BY 3.0](https://archive.org/details/jamendo-454854) |
 
-CC BY tracks are used under their licence with the attribution above. Please check each licence link before reusing a track.
+CC BY and CC BY-SA tracks are used under their licence with the attribution above; the beat_cc files are trimmed and mastered (loudness, bass), and those under CC BY-SA are shared under the same licence. Please check each licence link before reusing a track.
 
 The `assets/` folder holds the site preview image, served from here for link previews in Russia (VK), where the main CDN is cut.
